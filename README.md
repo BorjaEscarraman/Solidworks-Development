@@ -1,6 +1,5 @@
 # Solidworks-Insights
-Stored all the used online resources for about the parts built, inspiration, support, references, libraries. In my journey learning SolidWorks
-Downloaded Research Gate in my Phone to find reliable papers based on the part I want to build.
+Stored all the used online resources for about the parts built, inspiration, support, references, libraries. In my journey learning SolidWorks. Downloaded Research Gate in my Phone to find reliable papers based on the part I want to build.
 
 
 Here there's some texture libraries I found around:
