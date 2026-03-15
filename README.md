@@ -1,5 +1,6 @@
 # Solidworks-Insights
-Stored all the used online resources for about the parts built, inspiration, support, references, libraries. In my journey learning SolidWorks. Downloaded Research Gate in my Phone to find reliable papers based on the part I want to build.
+This repository stores references, papers, inspiration, and technical resources related to the parts I design while learning SolidWorks through a daily engineering practice.
+Each modeled component is accompanied by research sources, diagrams, and engineering explanations used to understand the real hardware behind the design.
 
 
 Here there's some texture libraries I found around:
