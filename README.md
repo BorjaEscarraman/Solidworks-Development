@@ -2,7 +2,7 @@
 This repository stores references, papers, inspiration, and technical resources related to the parts I design while learning SolidWorks through a daily engineering practice.
 Each modeled component is accompanied by research sources, diagrams, and engineering explanations used to understand the real hardware behind the design.
 
-THe chain of my workflow;
+The chain of my workflow;
 Research → model → iterate.
 
 Here there's some texture libraries I found around:
