@@ -2,7 +2,7 @@
 This repository stores references, papers, inspiration, and technical resources related to the parts I design while learning SolidWorks through a daily engineering practice.
 Each modeled component is accompanied by research sources, diagrams, and engineering explanations used to understand the real hardware behind the design.
 
-My ultimate aim is to become profficient not only in Solidworks, but becoming a master in miniziming noise while scavenging for segments of information useful for what I want to build spontaneously.
+My ultimate aim is to become profficient not only in Solidworks, but to become a master in miniziming noise while scavenging for segments of information in different sources that support what I want to build spontaneously.
 
 The chain of my workflow;
 * Research → model → iterate.
